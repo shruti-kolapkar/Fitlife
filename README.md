@@ -12,9 +12,7 @@
 - Responsive layout
 - Contact & social links
 
-## 🔗 Live Demo
 
-👉 [View Live](https://shruti-kolapkar.github.io/fitlife/)
 
 ## 🛠️ Run Locally
 
